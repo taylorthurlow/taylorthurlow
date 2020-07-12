@@ -121,7 +121,7 @@ if __name__ == "__main__":
     md = "\n".join(
         [
             "* [{repo} {release}]({url}) - {published_at}".format(**release)
-            for release in releases[:5]
+            for release in releases[:10]
         ]
     )
     readme_contents = readme.open().read()
@@ -147,7 +147,7 @@ if __name__ == "__main__":
     project_releases.open("w").write(project_releases_content)
 
     # Blog entries
-    entries = fetch_blog_entries()[:5]
+    entries = fetch_blog_entries()[:10]
     entries_md = "\n".join(
         ["* [{title}]({url}) - {published}".format(**entry) for entry in entries]
     )
