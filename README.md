@@ -13,15 +13,15 @@ More [recent releases](https://github.com/taylorthurlow/taylorthurlow/blob/main/
 
 ### On my blog
 <!-- blog starts -->
-* [OpenSSL & Ruby with Homebrew on macOS](https://thurlow.io/macos/2019/12/12/openssl-with-homebrew-on-macos.html) - 
-* [Add code auto-loading to a Ruby project with Zeitwerk](https://thurlow.io/ruby/2019/11/17/add-code-auto-loading-to-a-ruby-project-with-zeitwerk.html) - Sun, 17 Nov 2019 20:39:00 +0000
-* [Frictionless deployment secrets using environment variables](https://thurlow.io/ruby/2019/11/13/frictionless-deployment-secrets-using-environment-variables.html) - Wed, 13 Nov 2019 06:15:00 +0000
-* [Using caps lock as CMD and CTRL in macOS, selectively](https://thurlow.io/macos/2019/01/21/using-caps-lock-as-command-and-control-in-macos-selectively.html) - Mon, 21 Jan 2019 20:00:00 +0000
-* [Using factory_bot without Ruby on Rails](https://thurlow.io/ruby/2018/10/31/using-factory-bot-without-ruby-on-rails.html) - Wed, 31 Oct 2018 20:00:00 +0000
-* [Using Webpacker with Rails on TravisCI](https://thurlow.io/ruby/2018/10/19/using-webpacker-with-rails-on-travisci.html) - Fri, 19 Oct 2018 20:00:00 +0000
-* [How to forward CMD shortcuts to iTerm as CTRL shortcuts](https://thurlow.io/macos/2018/04/13/how-to-forward-command-shortcuts-to-iterm-as-ctrl-shortcuts.html) - Fri, 13 Apr 2018 20:00:00 +0000
-* [Replicating macOS's screenshot utility on Linux](https://thurlow.io/linux/2017/11/10/replicating-macos-screenshot-utility-on-linux.html) - Fri, 10 Nov 2017 20:00:00 +0000
-* [Ruby on Rails: DRY controllers with responders gem](https://thurlow.io/ruby/2017/10/26/ruby-on-rails-dry-controllers-with-responders-gem.html) - 
-* [Ruby on Rails: Scopes](https://thurlow.io/ruby/2017/06/18/ruby-on-rails-scopes.html) - Sun, 18 Jun 2017 20:00:00 +0000
+* [OpenSSL & Ruby with Homebrew on macOS](https://thurlow.io/macos/2019/12/12/openssl-with-homebrew-on-macos.html) - 2019-12-12
+* [Add code auto-loading to a Ruby project with Zeitwerk](https://thurlow.io/ruby/2019/11/17/add-code-auto-loading-to-a-ruby-project-with-zeitwerk.html) - 2019-11-17
+* [Frictionless deployment secrets using environment variables](https://thurlow.io/ruby/2019/11/13/frictionless-deployment-secrets-using-environment-variables.html) - 2019-11-13
+* [Using caps lock as CMD and CTRL in macOS, selectively](https://thurlow.io/macos/2019/01/21/using-caps-lock-as-command-and-control-in-macos-selectively.html) - 2019-01-21
+* [Using factory_bot without Ruby on Rails](https://thurlow.io/ruby/2018/10/31/using-factory-bot-without-ruby-on-rails.html) - 2018-10-31
+* [Using Webpacker with Rails on TravisCI](https://thurlow.io/ruby/2018/10/19/using-webpacker-with-rails-on-travisci.html) - 2018-10-19
+* [How to forward CMD shortcuts to iTerm as CTRL shortcuts](https://thurlow.io/macos/2018/04/13/how-to-forward-command-shortcuts-to-iterm-as-ctrl-shortcuts.html) - 2018-04-13
+* [Replicating macOS's screenshot utility on Linux](https://thurlow.io/linux/2017/11/10/replicating-macos-screenshot-utility-on-linux.html) - 2017-11-10
+* [Ruby on Rails: DRY controllers with responders gem](https://thurlow.io/ruby/2017/10/26/ruby-on-rails-dry-controllers-with-responders-gem.html) - 2017-10-26
+* [Ruby on Rails: Scopes](https://thurlow.io/ruby/2017/06/18/ruby-on-rails-scopes.html) - 2017-06-18
 <!-- blog ends -->
 More on [thurlow.io](https://thurlow.io)
