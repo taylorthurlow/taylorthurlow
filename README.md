@@ -1,4 +1,4 @@
-Currently working for [Bay Photo](https://bayphoto.com).
+Hi! I'm Taylor. Welcome to my GitHub page. I work for [Bay Photo](https://bayphoto.com), typically in a Ruby and Ruby on Rails stack, focusing on back-end.
 
 <table><tr><td valign="top">
 
