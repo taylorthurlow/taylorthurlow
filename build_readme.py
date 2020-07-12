@@ -5,6 +5,7 @@ import json
 import pathlib
 import re
 import os
+import datetime as dt
 
 root = pathlib.Path(__file__).parent.resolve()
 client = GraphqlClient(endpoint="https://api.github.com/graphql")
@@ -105,7 +106,8 @@ def fetch_blog_entries():
         {
             "title": entry["title"],
             "url": entry["link"].split("#")[0],
-            "published": entry["published"].split("T")[0],
+            "published": dt.datetime.strptime(entry["published"], "%a, %d %b %Y %H:%M:%S %z")
+                                    .strftime("%Y-%m-%d"),
         }
         for entry in entries
     ]
