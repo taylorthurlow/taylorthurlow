@@ -37,6 +37,7 @@ query {
         name
         description
         url
+        isArchived
         releases(last:1) {
           totalCount
           nodes {
@@ -70,7 +71,7 @@ def fetch_releases(oauth_token):
         print(json.dumps(data, indent=4))
         print()
         for repo in data["data"]["viewer"]["repositories"]["nodes"]:
-            if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
+            if not repo["isArchived"] and repo["releases"]["totalCount"] and repo["name"] not in repo_names:
                 repos.append(repo)
                 repo_names.add(repo["name"])
                 
@@ -88,9 +89,6 @@ def fetch_releases(oauth_token):
                         .replace(repo["name"], "")
                         .strip(),
                         "published_at": published_at or "unknown",
-#                        "published_at": repo["releases"]["nodes"][0][
-#                            "publishedAt"
-#                        ].split("T")[0],
                         "url": repo["releases"]["nodes"][0]["url"],
                     }
                 )
