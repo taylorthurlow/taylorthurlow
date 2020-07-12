@@ -4,7 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '32 * * * *'
+    - cron:  '8 * * * *'
 
 jobs:
   build:
@@ -28,7 +28,7 @@ jobs:
         python -m pip install -r requirements.txt
     - name: Update README
       env:
-        SIMONW_TOKEN: ${{ secrets.SIMONW_TOKEN }}
+        USER_TOKEN: ${{ secrets.USER_TOKEN }}
       run: |-
         python build_readme.py
         cat README.md
