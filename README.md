@@ -25,4 +25,3 @@ More [recent releases](https://github.com/taylorthurlow/taylorthurlow/blob/main/
 * [Ruby on Rails: Scopes](https://thurlow.io/ruby/2017/06/18/ruby-on-rails-scopes.html) - 2017-06-18
 <!-- blog ends -->
 More on [thurlow.io](https://thurlow.io)
-</td><td valign="top">
