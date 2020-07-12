@@ -73,6 +73,12 @@ def fetch_releases(oauth_token):
             if repo["releases"]["totalCount"] and repo["name"] not in repo_names:
                 repos.append(repo)
                 repo_names.add(repo["name"])
+                
+                published_at = repo["releases"]["nodes"][0]["publishedAt"]
+
+                if published_at:
+                    published_at = published_at.split("T")[0]
+                
                 releases.append(
                     {
                         "repo": repo["name"],
@@ -81,9 +87,10 @@ def fetch_releases(oauth_token):
                         "release": repo["releases"]["nodes"][0]["name"]
                         .replace(repo["name"], "")
                         .strip(),
-                        "published_at": repo["releases"]["nodes"][0][
-                            "publishedAt"
-                        ].split("T")[0],
+                        "published_at": published_at or "unknown",
+#                        "published_at": repo["releases"]["nodes"][0][
+#                            "publishedAt"
+#                        ].split("T")[0],
                         "url": repo["releases"]["nodes"][0]["url"],
                     }
                 )
