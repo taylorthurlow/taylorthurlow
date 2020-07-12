@@ -4,11 +4,8 @@ Currently working for [Bay Photo](https://bayphoto.com).
 
 ### Recent releases
 <!-- recent_releases starts -->
-* [rails-bamboo ](https://github.com/taylorthurlow/rails-bamboo/releases/tag/untagged-5e3eb58cc72effe37b52) - unknown
 * [thicket v0.1.4 - 2020-06-23](https://github.com/taylorthurlow/thicket/releases/tag/v0.1.4) - 2020-06-24
 * [crystal-build-cr v0.1.3 - 2020-06-23](https://github.com/crenv/crystal-build-cr/releases/tag/v0.1.3) - 2020-06-24
-* [pocketwatch v0.1.1 - 2019-01-17](https://github.com/taylorthurlow/pocketwatch/releases/tag/v0.1.1) - 2020-01-18
-* [ruby-thicket ](https://github.com/taylorthurlow/ruby-thicket/releases/tag/v0.1.8) - 2019-06-06
 * [panda-motd v0.0.11](https://github.com/taylorthurlow/panda-motd/releases/tag/v0.0.11) - 2018-12-31
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/taylorthurlow/taylorthurlow/blob/main/releases.md)
