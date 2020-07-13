@@ -1,8 +1,10 @@
 # Released projects
 
-All <!-- release_count starts -->3<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
+All <!-- release_count starts -->4<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
+* **[interaktor](https://github.com/taylorthurlow/interaktor)**: [v0.1.3](https://github.com/taylorthurlow/interaktor/releases/tag/v0.1.3) - 2020-07-13
+<br>a fork of collectiveidea/interactor which takes a more strict approach to service objects
 * **[thicket](https://github.com/taylorthurlow/thicket)**: [v0.1.4 - 2020-06-23](https://github.com/taylorthurlow/thicket/releases/tag/v0.1.4) - 2020-06-24
 <br>a better one-line git log
 * **[crystal-build-cr](https://github.com/crenv/crystal-build-cr)**: [v0.1.3 - 2020-06-23](https://github.com/crenv/crystal-build-cr/releases/tag/v0.1.3) - 2020-06-24
