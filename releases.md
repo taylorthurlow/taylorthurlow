@@ -3,7 +3,7 @@
 All <!-- release_count starts -->4<!-- release_count ends --> of my released projects, ordered by the date of their most recent release.
 
 <!-- recent_releases starts -->
-* **[interaktor](https://github.com/taylorthurlow/interaktor)**: [v0.1.5](https://github.com/taylorthurlow/interaktor/releases/tag/v0.1.5) - 2020-09-29
+* **[interaktor](https://github.com/taylorthurlow/interaktor)**: [v0.2.0](https://github.com/taylorthurlow/interaktor/releases/tag/v0.2.0) - 2020-11-02
 <br>a fork of collectiveidea/interactor which takes a more strict approach to service objects
 * **[thicket](https://github.com/taylorthurlow/thicket)**: [v0.1.4 - 2020-06-23](https://github.com/taylorthurlow/thicket/releases/tag/v0.1.4) - 2020-06-24
 <br>a better one-line git log
