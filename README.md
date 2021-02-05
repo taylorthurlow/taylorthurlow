@@ -14,6 +14,7 @@ More [recent releases](https://github.com/taylorthurlow/taylorthurlow/blob/main/
 
 ### On my blog
 <!-- blog starts -->
+* [Remote Selenium WebDriver servers with Rails, Capybara, RSpec, and Chrome](https://thurlow.io/ruby/2020/11/06/remote-selenium-webdriver-servers-with-rails-capybara-and-rspec.html) - 2020-11-06
 * [Broken application logging with a forking application server](https://thurlow.io/ruby/2020/07/12/broken-application-logging-with-a-forking-application-server.html) - 2020-07-12
 * [OpenSSL & Ruby with Homebrew on macOS](https://thurlow.io/macos/2019/12/12/openssl-with-homebrew-on-macos.html) - 2019-12-12
 * [Add code auto-loading to a Ruby project with Zeitwerk](https://thurlow.io/ruby/2019/11/17/add-code-auto-loading-to-a-ruby-project-with-zeitwerk.html) - 2019-11-17
@@ -23,6 +24,5 @@ More [recent releases](https://github.com/taylorthurlow/taylorthurlow/blob/main/
 * [Using Webpacker with Rails on TravisCI](https://thurlow.io/ruby/2018/10/19/using-webpacker-with-rails-on-travisci.html) - 2018-10-19
 * [How to forward CMD shortcuts to iTerm as CTRL shortcuts](https://thurlow.io/macos/2018/04/13/how-to-forward-command-shortcuts-to-iterm-as-ctrl-shortcuts.html) - 2018-04-13
 * [Replicating macOS's screenshot utility on Linux](https://thurlow.io/linux/2017/11/10/replicating-macos-screenshot-utility-on-linux.html) - 2017-11-10
-* [Ruby on Rails: DRY controllers with responders gem](https://thurlow.io/ruby/2017/10/26/ruby-on-rails-dry-controllers-with-responders-gem.html) - 2017-10-26
 <!-- blog ends -->
 More on [thurlow.io](https://thurlow.io)
