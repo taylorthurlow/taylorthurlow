@@ -4,10 +4,10 @@ Hi! I'm Taylor. Welcome to my GitHub page. I work for [Bay Photo](https://baypho
 
 ### Recent releases
 <!-- recent_releases starts -->
+* [panda-motd v0.0.12](https://github.com/taylorthurlow/panda-motd/releases/tag/v0.0.12) - 2021-02-10
 * [crystal-build-cr v0.1.4 - 2021-01-11](https://github.com/crenv/crystal-build-cr/releases/tag/v0.1.4) - 2021-01-12
 * [interaktor v0.2.0](https://github.com/taylorthurlow/interaktor/releases/tag/v0.2.0) - 2020-11-02
 * [thicket v0.1.4 - 2020-06-23](https://github.com/taylorthurlow/thicket/releases/tag/v0.1.4) - 2020-06-24
-* [panda-motd v0.0.11](https://github.com/taylorthurlow/panda-motd/releases/tag/v0.0.11) - 2018-12-31
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/taylorthurlow/taylorthurlow/blob/main/releases.md)
 </td><td valign="top">
